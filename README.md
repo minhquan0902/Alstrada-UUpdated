@@ -1,1 +1,1 @@
-"# Alstrada-UUpdated" 
+# Alstrada.com static website
